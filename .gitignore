@@ -1,2 +1,2 @@
-**/persistence.xml
-.idea/
+./**/persistence.xml
+./.idea/
